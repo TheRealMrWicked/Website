@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: MrWicked
+description: A website to host my programming projects.
 theme: just-the-docs
+url: https://mrwicked.net
 
-url: https://just-the-docs.github.io
+color_scheme: dark
+
+logo: "Logo.png"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Click to go back to the top."
+footer_content: "Copyright &copy; 2023 MrWicked. Licenced under <a href=\"https://github.com/TheRealMrWicked/website/blob/main/LICENSE\">GNU Public Licence Version 2</a>"
