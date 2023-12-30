@@ -1,8 +1,8 @@
 ---
-layout - default
-title - Magisk Utilities
-description - "Documentation for the Magisk Utilities Program."
-nav_order - 2
+layout: default
+title: Magisk Utilities
+description: "Documentation for the Magisk Utilities Program."
+nav_order: 2
 ---
 
 # Magisk Utilities
